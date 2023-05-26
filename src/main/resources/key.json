@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "zinc-ellipse-386812",
+  "private_key_id": "5671bed474c2469051b34a0adc90f0e859baba81",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDDj/YZr00tVg5V\nOJ56I2r94YQqLy2sW/h8eqgsR0BBcKZSNFMj5IzMja+uLBUnjyxBQyw7Ry5oWG7r\noXBDjC97LfGRqaGOqRMG8ap9ei6YythvAfX+F6YWFO6/C7qxnyxvOPcUYrF+6TwT\nNAmluchB78BHajcXNEFkhyHiEIwbt98HFNRkTvqQWTKIGo4WlVd1tRt8bPOpF4ur\nRwx0hKVYrSXOvTrwIiKr+vr6q5o/Y+WK436+yGMNzl9UKXcMvFjYJloMu82SobSM\nyOSbZnvBSGpw7Enme/TA8b8t2WDTqVg1ogag7zy/9G9p3Hp2uFWrg9cFTr9PYmO5\n9yTEg0D7AgMBAAECggEANAj0NLVeVbfWLHraQCl4aIE/B3JyNrBqF8UTRmTXBhKR\nTsI5dQ11IWB55GA6aMJBxkO3WzZ/dKhDK1NTacW9RItfAaEfKbR3KZvX/3cpOuKO\nYEsnRyrHuIxtUkwuquBtlFKV+8ie7ePlZj6sanpafKDsipQKgJQY6kTCkUJR5XW6\nQOsTgeYwuht3A8KLVofKcc/jnRacWKCje23oKlx0XOyoFiXjU1YDOanbxvghrdbe\nKgXf8yipHcxtjMhcFd19l/KC+/nivswPaSd40Y7HR3/op1qlprSBqODFdpie0Vt/\n4aKXxwlE/NsmkTKFtQ5ZOG0af/xmtX9xd2D1Z03UsQKBgQDhiH7lsIJZq+E+8k9B\nDi1n77zSred0DrRt37iA1+nIFwYrrWZrsOklI1DXqTGYKFFrqjx0utiJ7b+j7R+0\nPqFc1lGzGWn11dMJgjRc2q9ilei+Jf7j6wIHQEbeoVeqnY5d7KchqsK7nXruWRv0\nMOrb9BiC/n+pm56kkLoQgjnMvQKBgQDd+v+vYqZGC22SDwhqLDXFv4rOF5GaglNv\nmCeF4eNgL9+wINcgJftS3LWvY2Nj+w24Mr7o/42aBXaIh/uRF+VwBXhMMB0ogASS\nekHR/ffx4U6zNBC0gOujX+xoAE5PGGMhFXk+fT/LW5wDElJRmtxyEjqEMTj69KaM\nLZPrAK0MFwKBgEwLzE4CkFFQJWkmJxcWgrTzH0YioVJ+ytPphbrcEtYG/Wuo0kop\notOE7vNo93II1jtpcW0iu3T2l5HcmL4cCCjXk0DCpvnfmYMxRhqxGkYxqgLDqQiM\n62gqgjr7SCYdbi25aDlv7K16UkMgBM7315lG2yUAT2ePM5Tlv/dlEbw5AoGAStWp\niSkKwSZtJAZpYdHRtv7h/qS3c41oL4DuIhaLHwxErw4DOFVVqxO5NI2fHj+u2mBR\nOB+fT0N0OIcPalTSBrfxXE4EJnkyEWeh9PdXtXWtoIB2+UNVLVjTTCR+QfAIy0h/\n/W8gKKCTsf1lPxmkI9i9XX9ypDgCRdO/wEQUErUCgYEArI5EKldCET5Qs8VrSjXs\n8luF2bBUen6nxrJ5+CYsxp8ItzAM4aCb68VwHm6fiXmxRPeMUQNZ7uL6MqpNyavQ\nI81vaCtB95VSYSPYP8WrWropagpYkTglKRRYKyo5eoZvw7JJdPwiKcCazJ2KeShX\n7fumbvZQKeyYo7SHmXJouSs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "zinc-ellipse-386812@appspot.gserviceaccount.com",
+  "client_id": "104007563203592252401",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/zinc-ellipse-386812%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
